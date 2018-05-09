@@ -11,5 +11,5 @@
   ссылки
   <li><a href = "https://github.com/NelothD"> Личная страница </a></br>
   <li><a href = "https://github.com/NelothD/Akolzin.A.S.IDB-14-13.github.io"> Личный репозиторий </a></br>
-  <li><a href = "https://github.com/NelothD/Akolzin.A.S.IDB-14-13.github.io">Index</a></br>
+  <li><a href = "https://nelothd.github.io/Akolzin.A.S.IDB-14-13.github.io">Index</a></br>
   <li><a href = "https://github.com/NelothD/Akolzin.A.S.IDB-14-13/wiki"> Wiki </a></br>
